@@ -137,9 +137,9 @@ def set_dependencies(sqlite_file, trial):
 
 		for row in cursor:
 			if(func_class in row[0]):
-				#TODO: imprime varias vezes a mesma coisa
 				string_to_print = md[2] + "\tuses\t" + md[1]
-				if(string_to_print not in to_print_methods_dependencies):
+				#checa se a dependencia não já foi salva e se não há dependencia da mesma classe
+				if(string_to_print not in to_print_methods_dependencies and func_class != object_string_to_class(md[3]) ):
 					to_print_methods_dependencies.append(string_to_print)
 					dependency_01.append([func_class, object_string_to_class(md[3])])
 
