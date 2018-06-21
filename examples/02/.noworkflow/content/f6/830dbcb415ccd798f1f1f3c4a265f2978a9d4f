@@ -1,0 +1,2 @@
+def getInscricoes(self):
+        return self.__inscricoes

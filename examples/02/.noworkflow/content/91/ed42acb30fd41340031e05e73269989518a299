@@ -1,0 +1,4 @@
+def __init__(self, nome, codigo, creditos):
+        self.__nome = nome
+        self.__codigo = codigo
+        self.__creditos = creditos

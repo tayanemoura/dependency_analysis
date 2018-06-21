@@ -1,0 +1,4 @@
+def __init__(self, preco):
+        self.produto = None
+        self.quantidade = 0
+        self.preco = 0.0

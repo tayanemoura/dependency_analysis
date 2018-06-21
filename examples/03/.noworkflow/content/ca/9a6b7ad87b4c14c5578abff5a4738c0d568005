@@ -1,0 +1,2 @@
+def consultaCliente(self):
+        print("Cliente: " + self.pessoa.getNome() + " status:" + self.status + " limite " + str(self.limiteCredito))

@@ -1,0 +1,4 @@
+def __init__(self, limiteCredito, status, pessoa):
+        self.limiteCredito = limiteCredito
+        self.status = status
+        self.pessoa = pessoa

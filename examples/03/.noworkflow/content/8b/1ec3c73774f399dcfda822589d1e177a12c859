@@ -1,0 +1,2 @@
+def getQtd(self):
+        return self.quantidade

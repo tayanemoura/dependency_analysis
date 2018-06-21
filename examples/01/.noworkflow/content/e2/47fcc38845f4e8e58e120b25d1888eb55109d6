@@ -1,0 +1,3 @@
+def cadastraTurma(self, turma, aux):
+        print(aux)
+        self.turmas += [turma]

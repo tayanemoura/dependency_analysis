@@ -1,0 +1,3 @@
+def sair():
+    desloga()
+    print ("Conexão terminada")

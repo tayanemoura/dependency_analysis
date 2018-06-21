@@ -1,0 +1,2 @@
+def incluirItem(self):
+        self.quantidade += 1

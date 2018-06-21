@@ -1,0 +1,2 @@
+def getNome(self):
+        return self.nome

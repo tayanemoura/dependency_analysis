@@ -1,0 +1,2 @@
+def cancelarPedido(self):
+        self.status = "cancelado"

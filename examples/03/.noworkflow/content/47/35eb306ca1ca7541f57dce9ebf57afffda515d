@@ -1,0 +1,2 @@
+def consultarProduto(self):
+        print("Produto: " + self.nomeProduto + " peso:" +str(self.peso) + " qtd: "+str(self.qtdDisponivel))

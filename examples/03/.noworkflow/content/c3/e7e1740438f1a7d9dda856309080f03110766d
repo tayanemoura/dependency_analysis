@@ -1,0 +1,5 @@
+def excluirItem(self):
+        if(self.quantidade != 0):
+            self.quantidade -= 1
+        else:
+            print("Nao ha mais produtos para serem excluidos")

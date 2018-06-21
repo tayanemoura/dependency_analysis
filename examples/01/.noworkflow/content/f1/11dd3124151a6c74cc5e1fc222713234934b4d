@@ -1,0 +1,2 @@
+def cadastraDisciplina(self, disc):
+        self.disciplinas += [disc]

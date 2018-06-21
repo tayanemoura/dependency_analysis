@@ -1,0 +1,6 @@
+def __init__(self, vendedor, itemPedido, cliente):
+        #self.dataPedido = dataPedido
+        self.vendedor = vendedor
+        self.status = "criado"
+        self.itemPedido = itemPedido
+        self.cliente = cliente

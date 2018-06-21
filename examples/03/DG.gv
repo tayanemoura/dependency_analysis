@@ -1,0 +1,6 @@
+digraph G {
+	Pedido -> ItemPedido
+	Cliente -> Pessoa
+	Pedido -> Cliente
+	Pedido -> Produto
+}

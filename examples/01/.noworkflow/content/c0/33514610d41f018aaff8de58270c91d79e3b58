@@ -1,0 +1,6 @@
+def __init__(self,codigo, disciplina, professor, periodo):
+        self.codigo = codigo
+        self.disciplina = disciplina
+        self.professor=professor
+        self.periodo = periodo
+        self.alunos = []

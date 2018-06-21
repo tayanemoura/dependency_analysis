@@ -1,0 +1,4 @@
+def __init__(self,nomeProduto, peso, qtdDisponivel):
+        self.nomeProduto = nomeProduto
+        self.peso = peso
+        self.qtdDisponivel = qtdDisponivel

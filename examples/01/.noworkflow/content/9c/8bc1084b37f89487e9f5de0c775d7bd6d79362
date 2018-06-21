@@ -1,0 +1,2 @@
+def getCodigo(self):
+        return self.__codigo

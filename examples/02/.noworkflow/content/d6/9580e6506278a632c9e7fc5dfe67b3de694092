@@ -1,0 +1,4 @@
+def __init__(self, dre, nome):
+        self.__dre = dre
+        self.__nome = nome
+        self.__inscricoes = []

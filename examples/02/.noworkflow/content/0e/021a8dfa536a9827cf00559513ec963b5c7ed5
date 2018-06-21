@@ -1,0 +1,2 @@
+def getDre(self):
+        return self.__dre

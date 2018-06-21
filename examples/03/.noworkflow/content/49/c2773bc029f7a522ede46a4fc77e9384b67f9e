@@ -1,0 +1,2 @@
+def getQtdDisponivel(self):
+        return self.qtdDisponivel

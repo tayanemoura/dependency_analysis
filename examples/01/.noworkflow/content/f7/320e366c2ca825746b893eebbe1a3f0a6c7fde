@@ -1,0 +1,2 @@
+def inscreveAluno(self, aluno, turma):
+        turma.adicionaAluno(aluno)

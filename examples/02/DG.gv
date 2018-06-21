@@ -1,0 +1,7 @@
+digraph G {
+	Turma -> Aluno
+	IdUff -> Turma
+	IdUff -> Disciplina
+	Turma -> Disciplina
+	IdUff -> Aluno
+}

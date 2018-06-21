@@ -1,0 +1,5 @@
+def listaAlunos(self):
+        print ("\n---------------------------------")
+        for a in self.alunos:
+            print (a.getNome(), a.getDre())
+        print ("\n---------------------------------")

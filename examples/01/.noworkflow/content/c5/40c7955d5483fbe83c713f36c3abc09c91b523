@@ -1,0 +1,2 @@
+def adicionaAluno(self, aluno):
+        self.alunos+= [aluno]

@@ -1,0 +1,2 @@
+def addProduto(self, produto):
+        self.produto = produto

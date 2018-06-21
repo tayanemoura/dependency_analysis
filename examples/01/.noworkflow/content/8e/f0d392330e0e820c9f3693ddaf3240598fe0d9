@@ -1,0 +1,2 @@
+def __str__(self):
+        return str("Aluno nome: "+ self.__nome + " DRE: "+ self.__dre)

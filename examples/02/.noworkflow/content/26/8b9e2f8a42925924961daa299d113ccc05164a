@@ -1,0 +1,2 @@
+def teste(self, aux):
+        print(aux.getNome())

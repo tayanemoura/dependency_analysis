@@ -1,0 +1,4 @@
+def listaAlunos(self):
+        print ("Alunos da turma ", self.codigo, self.disciplina)
+        for a in self.alunos:
+            print (a.getNome())
